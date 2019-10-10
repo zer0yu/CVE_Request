@@ -42,3 +42,13 @@ But when you visit `/start.htm?x=1.jpg`, you can see the corresponding page, but
 ![bb47a128156611ce51405f5ec14c04ab](img/F6A46FA3-B998-4136-A526-8530B354EB9D.png)
 
 The remaining versions of the vulnerability verification are the same as above.
+
+## 0x05 Acknowledgement
+
+Thanks to the partners who discovered the vulnerability together：
+
+Wei Xie
+
+En-Ze Wang
+
+Zhen-hua Wang 
