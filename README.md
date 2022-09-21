@@ -10,8 +10,7 @@ only for request cve
 5. [CVE-2021-44261](https://github.com/zer0yu/CVE_Request/blob/master/netgear/Netgear_W104_unauthorized_access_vulnerability_first.md)
 6. [CVE-2021-44262](https://github.com/zer0yu/CVE_Request/blob/master/netgear/Netgear_W104_unauthorized_access_vulnerability_second.md)
 7. [CVE-2022-31827](./MonstaFTP/MonstaFTP_v2_10_3_SSRF.md)
+8. [CVE-2022-38931](https://github.com/zer0yu/CVE_Request/blob/master/baijiacms/baijiacmsv4_ssrf.md)
 
 ### Under review:
-
-1. [baijiacms v4 SSRF](https://github.com/zer0yu/CVE_Request/blob/master/baijiacms/baijiacmsv4_ssrf.md)
 
