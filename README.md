@@ -14,3 +14,5 @@ only for request cve
 
 ### Under review:
 
+1. [WeBid SSRF](https://github.com/zer0yu/CVE_Request/blob/master/Webid/WeBid_ssrf.md)
+2. [WeBid_Path_Traversal](https://github.com/zer0yu/CVE_Request/blob/master/Webid/WeBid_Path_Traversal.md)
