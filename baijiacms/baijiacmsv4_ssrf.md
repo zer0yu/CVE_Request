@@ -90,4 +90,4 @@ Access the corresponding file to get the contents of the `/etc/passwd` file
 
 ### 0x03 Acknowledgement
 
-Ez Wang, Yf Gao, Zh Wang, Lj Wu, W Xie
+z3

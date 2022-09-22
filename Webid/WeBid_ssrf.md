@@ -40,4 +40,4 @@ curl -i -s -k --location --request GET 'http://172.16.119.146:80/WeBid-1.2.1/get
 
 ### 0x03 Acknowledgement
 
-Ez Wang, Yf Gao, Zh Wang, Lj Wu, W Xie
+z3

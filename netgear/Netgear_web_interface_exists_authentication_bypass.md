@@ -47,8 +47,4 @@ The remaining versions of the vulnerability verification are the same as above.
 
 Thanks to the partners who discovered the vulnerability together：
 
-Wei Xie
-
-En-Ze Wang
-
-Zhen-hua Wang 
+z3
