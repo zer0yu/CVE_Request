@@ -16,4 +16,6 @@ only for request cve
 
 ### Under review:
 
-NONE
+1. [rConfig SSRF in path_a param](./rConfig/rConfig_path_a.md)
+2. [rConfig SSRF in path_b param](rConfig/rConfig_path_b.md)
+3. [rConfig SSRF in path param](./rConfig/rConfig_ ajaxGetFileByPath.md)
