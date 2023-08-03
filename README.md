@@ -13,13 +13,12 @@ only for request cve
 8. [CVE-2022-38931](https://github.com/zer0yu/CVE_Request/blob/master/baijiacms/baijiacmsv4_ssrf.md)
 9. [CVE-2022-41477](https://github.com/zer0yu/CVE_Request/blob/master/Webid/WeBid_ssrf.md)
 10. [duplicate of CVE-2018-1000882](https://github.com/zer0yu/CVE_Request/blob/master/Webid/WeBid_Path_Traversal.md)
+11. [CVE-2023-39108](./rConfig/rConfig_path_b.md)
+12. [CVE-2023-39109](./rConfig/rConfig_path_a.md)
+13. [CVE-2023-39110](./rConfig/rConfig_ ajaxGetFileByPath.md)
 
 ### Under review:
 
-1. [rConfig SSRF in path_a param](./rConfig/rConfig_path_a.md)
-
-2. [rConfig SSRF in path_b param](rConfig/rConfig_path_b.md)
-
-3. [rConfig SSRF in path param](./rConfig/rConfig_ ajaxGetFileByPath.md)
+1. 
 
    
