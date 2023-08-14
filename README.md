@@ -19,6 +19,14 @@ only for request cve
 
 ### Under review:
 
-1. 
+1. [Joomla SSRF checkForSelfUpdate](./Joomla/Joomla_checkForSelfUpdate.md)
+
+1. [Joomla SSRF getPackageFromUrl](./Joomla/Joomla_getPackageFromUrl_SSRF.md)
+
+1. [wondercms_installUpdateThemePluginAction_plugins](./WonderCMS/wondercms_installUpdateThemePluginAction_plugins.md)
+
+1. [wondercms_installUpdateThemePluginAction_themes](./WonderCMS/wondercms_installUpdateThemePluginAction_themes.md)
+
+1. [wondercms_pluginThemeUrl](./WonderCMS/wondercms_pluginThemeUrl.md)
 
    
