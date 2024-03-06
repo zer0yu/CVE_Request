@@ -16,17 +16,16 @@ only for request cve
 11. [CVE-2023-39108](./rConfig/rConfig_path_b.md)
 12. [CVE-2023-39109](./rConfig/rConfig_path_a.md)
 13. [CVE-2023-39110](./rConfig/rConfig_ ajaxGetFileByPath.md)
+14. [CVE-2024-27561](./WonderCMS/wondercms_installUpdateThemePluginAction_plugins.md)
+15. [CVE-2024-27561 Again](./WonderCMS/wondercms_installUpdateThemePluginAction_themes.md)
+16. [CVE-2024-27563](./WonderCMS/wondercms_pluginThemeUrl.md)
+
+
 
 ### Under review:
 
 1. [Joomla SSRF checkForSelfUpdate](./Joomla/Joomla_checkForSelfUpdate.md)
 
 1. [Joomla SSRF getPackageFromUrl](./Joomla/Joomla_getPackageFromUrl_SSRF.md)
-
-1. [wondercms_installUpdateThemePluginAction_plugins](./WonderCMS/wondercms_installUpdateThemePluginAction_plugins.md)
-
-1. [wondercms_installUpdateThemePluginAction_themes](./WonderCMS/wondercms_installUpdateThemePluginAction_themes.md)
-
-1. [wondercms_pluginThemeUrl](./WonderCMS/wondercms_pluginThemeUrl.md)
 
    
