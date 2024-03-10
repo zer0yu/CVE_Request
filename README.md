@@ -15,7 +15,7 @@ only for request cve
 10. [duplicate of CVE-2018-1000882](https://github.com/zer0yu/CVE_Request/blob/master/Webid/WeBid_Path_Traversal.md)
 11. [CVE-2023-39108](./rConfig/rConfig_path_b.md)
 12. [CVE-2023-39109](./rConfig/rConfig_path_a.md)
-13. [CVE-2023-39110](./rConfig/rConfig_ ajaxGetFileByPath.md)
+13. [CVE-2023-39110](./rConfig/rConfig_%20ajaxGetFileByPath.md)
 14. [CVE-2024-27561](./WonderCMS/wondercms_installUpdateThemePluginAction_plugins.md)
 15. [CVE-2024-27561 Again](./WonderCMS/wondercms_installUpdateThemePluginAction_themes.md)
 16. [CVE-2024-27563](./WonderCMS/wondercms_pluginThemeUrl.md)
@@ -27,5 +27,7 @@ only for request cve
 1. [Joomla SSRF checkForSelfUpdate](./Joomla/Joomla_checkForSelfUpdate.md)
 
 1. [Joomla SSRF getPackageFromUrl](./Joomla/Joomla_getPackageFromUrl_SSRF.md)
+
+1. [phpBB SSRF](phpBB/phpBB_SSRF.md)
 
    
