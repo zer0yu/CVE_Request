@@ -16,7 +16,7 @@ app="泛微-EOffice" || (body="eoffice_loading_tip" && body="eoffice10")
 
 ## 0x02 Vulnerability description
 
-The root cause of this vulnerability lies in the attacker's ability to upload phar-formatted files without proper authorization. Subsequently, the attacker can exploit the automatic deserialization mechanism triggered when PHP processes phar files. This exploitation enables the attacker to execute remote code on the targeted system, compromising its security and integrity.
+A deserialization vulnerability exists in Weaver E-Office V 10 that can be exploited by an attacker to execute arbitrary code. The root cause of this vulnerability lies in the attacker's ability to upload phar-formatted files without proper authorization. Subsequently, the attacker can exploit the automatic deserialization mechanism triggered when PHP processes phar files. This exploitation enables the attacker to execute remote code on the targeted system, compromising its security and integrity.
 
 #### 0x21 Restricted phar file uploads
 
