@@ -24,10 +24,7 @@ only for request cve
 
 ### Under review:
 
-1. [Joomla SSRF checkForSelfUpdate](./Joomla/Joomla_checkForSelfUpdate.md)
-
-1. [Joomla SSRF getPackageFromUrl](./Joomla/Joomla_getPackageFromUrl_SSRF.md)
-
 1. [phpBB SSRF](phpBB/phpBB_SSRF.md)
+2. [D-Link Dir-822 ACL Bypass](./d-link/dir-822_web_interface_acl_bypass.md)
 
-   
+
