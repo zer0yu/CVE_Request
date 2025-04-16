@@ -19,12 +19,10 @@ only for request cve
 14. [CVE-2024-27561](./WonderCMS/wondercms_installUpdateThemePluginAction_plugins.md)
 15. [CVE-2024-27561 Again](./WonderCMS/wondercms_installUpdateThemePluginAction_themes.md)
 16. [CVE-2024-27563](./WonderCMS/wondercms_pluginThemeUrl.md)
+17. [CVE-2025-28043](./d-link/dir-822_web_interface_acl_bypass.md)
 
 
 
 ### Under review:
 
 1. [phpBB SSRF](phpBB/phpBB_SSRF.md)
-2. [D-Link Dir-822 ACL Bypass](./d-link/dir-822_web_interface_acl_bypass.md)
-
-
